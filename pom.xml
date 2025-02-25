@@ -24,11 +24,11 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-            <groupId>org.joinfaces</groupId>
-            <artifactId>joinfaces-platform</artifactId>
-            <version>5.4.3</version>
-            <type>pom</type>
-            <scope>import</scope>
+                <groupId>org.joinfaces</groupId>
+                <artifactId>joinfaces-platform</artifactId>
+                <version>5.4.3</version>
+                <type>pom</type>
+                <scope>import</scope>
             </dependency>
         </dependencies>
     </dependencyManagement>
